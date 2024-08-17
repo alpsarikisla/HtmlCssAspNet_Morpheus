@@ -1,0 +1,65 @@
+﻿h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calibri;
+    color: dimgray;
+}
+
+.anaTasiyici {
+    border: 1px solid silver;
+    border-radius: 10px;
+    width: 1024px;
+    min-height: 200px;
+    margin: 0 auto;
+}
+
+.baslik {
+    padding: 10px;
+    border-bottom: 1px solid silver;
+}
+
+.icerik {
+    padding: 20px;
+}
+
+.satir {
+    padding-bottom:15px;
+}
+
+.metinkutu {
+    padding: 7px;
+    border-radius: 5px;
+    border: 1px solid teal;
+    width: 95%;
+    max-width: 95%;
+    min-width: 95%;
+}
+
+    .metinkutu:focus {
+        outline: 1px solid teal;
+    }
+
+.buton {
+    padding:10px 30px;
+    text-decoration:none;
+    font-weight:900;
+    background-color:teal;
+    color:white;
+    border-radius:5px;
+}
+.panel{
+    border-radius:10px;
+    padding:10px;
+    margin:5px 0;
+}
+.basariliPanel{
+    background-color:lightgreen;
+    color:darkgreen;
+}
+.basarisizPanel {
+    background-color: #fec8c8;
+    color: red;
+}

@@ -107,6 +107,8 @@
     <Content Include="HTMLKontrolleri\Resimler\kurabiye.jpg" />
     <Content Include="HTMLKontrolleri\TabloOlusturma.html" />
     <Content Include="HTMLKontrolleri\TemelKurallar.html" />
+    <Content Include="NorthwindProjeKatmanli\css\tasarim.css" />
+    <Content Include="NorthwindProjeKatmanli\KategoriEkle.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -160,6 +162,13 @@
     <Compile Include="ASPKontrolleri\TextBoxKontrolu.aspx.designer.cs">
       <DependentUpon>TextBoxKontrolu.aspx</DependentUpon>
     </Compile>
+    <Compile Include="NorthwindProjeKatmanli\KategoriEkle.aspx.cs">
+      <DependentUpon>KategoriEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NorthwindProjeKatmanli\KategoriEkle.aspx.designer.cs">
+      <DependentUpon>KategoriEkle.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -170,6 +179,13 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{e53c49bf-45fb-4d85-b21c-346abbb2cfc0}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
