@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|c:\\users\\303\\documents\\github\\htmlcssasp\\htmlcssaspnet\\aspkontrolleri\\gridviewkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\gridviewkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\htmlcssaspnet\\aspkontrolleri\\gridviewkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\gridviewkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\htmlcssaspnet\\aspkontrolleri\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\htmlcssaspnet\\aspkontrolleri\\panelkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\panelkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\htmlcssaspnet\\aspkontrolleri\\panelkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99172D0-F811-4954-B313-7E536F725B2A}|HtmlCssAspNet\\HtmlCssAspNet.csproj|solutionrelative:htmlcssaspnet\\aspkontrolleri\\panelkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 153,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\Kategori.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\ASPKontrolleri\\Kategori.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\Kategori.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\ASPKontrolleri\\Kategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:20:29.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridViewKontrolu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T14:16:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridViewKontrolu.aspx",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\ASPKontrolleri\\GridViewKontrolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-11T14:15:54.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanelKontrolu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAMwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:50:17.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PanelKontrolu.aspx",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\htmlcssasp\\HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx",
+              "RelativeToolTip": "HtmlCssAspNet\\ASPKontrolleri\\PanelKontrolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-11T13:42:59.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿.satir {
+    margin: 10px 0px;
+}
+
+.girisPanel {
+    border-radius:10px;
+    width: 400px;
+    min-height: 250px;
+    border: 1px solid silver;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-family: Calibri;
+}
+
+.metinKutu {
+    width: 96%;
+    padding: 7px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.girisButon {
+    /* width:96%;*/
+    padding: 7px;
+    border-radius: 5px;
+    display: block;
+    background-color: aqua;
+    color: teal;
+    text-align:center;
+    font-weight:900;
+    text-decoration:none;
+}
+.girisButon:hover
+{
+    background-color:aquamarine;
+}
+.hataMesaj{
+    display:block;
+    background-color:#faa8a8;
+    color:red;
+    border-radius:7px;
+    padding:10px;
+    margin:10px 0px;
+}

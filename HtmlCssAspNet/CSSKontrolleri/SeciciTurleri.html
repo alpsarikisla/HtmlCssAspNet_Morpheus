@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Seçici Türleri</title>
+    <style>
+        body{
+            font-family:Calibri;
+        }
+        label{
+            color:red;
+        }
+        span{
+            font-size:15pt;
+        }
+        a{
+            font-size:15pt;
+            color:green;
+            font-weight:900;
+            text-decoration:none;
+        }
+        /*Sınıf Secici*/
+        .maviYazi
+        {
+            color:white;
+            background-color:blue;
+        }
+        /*id seciciler*/
+        #tb_kullaniciAdi{
+            color:dimgray;
+            font-size:15pt;
+        }
+        #tb_sifre{
+            color:orangered;
+            font-size:15pt;
+        }
+    </style>
+</head>
+<body>
+    <h2>Satır Bazında Css</h2>
+    <p>paragraf metni uzun yazıları paragraflar şeklinde ayırmak için kullanılır</p>
+    <p><label style="font-weight:900">Satır bazında css</label> etiketlere eklenen attribute'lara verilen isimdir</p>
+    <h2>Etiket Seçiciler</h2>
+    Normal Yazı<br />
+    <label>Ben bir label'ım</label><br />
+    <span>Ben Bir Span'im</span><br />
+    <a href="http://www.google.com">Google'a Git =></a>
+    <h2>Sınıf Seçiciler</h2>
+    <a href="http://www.google.com" class="maviYazi">Ben link olarak dünyaya geldim</a><br />
+    <label class="maviYazi">Ben Sınıf Özelliği taşıyan label'ım</label>
+    <h2>ID Seciciler</h2>
+
+    <table border="0" cellspacing="0">
+        <tr>
+            <th colspan="2" style="background-color:orangered; color:white; font-size:20pt">Kullanıcı Giriş</th>
+        </tr>
+        <tr>
+            <td>Kullanıcı Adı</td>
+            <td><input type="text" id="tb_kullaniciAdi" /></td>
+        </tr>
+        <tr>
+            <td> Şifre</td>
+            <td><input type="password" id="tb_sifre" /></td>
+        </tr>
+    </table>
+</body>
+</html>
